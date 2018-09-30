@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<Servers >
+	<ServerGroup Name="Welcome to Canada" Logo="https://i.imgur.com/DorAJNX.jpg">
+		<Server Name="Welcome to Canada v1.0" Logo="" >
+                         <RSS></RSS>
+                         <Banner></Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version></Version>  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-1point0/archive/master.zip</Download>
+			</Downloads>
+			<Description>Welcome to Canada version 1.0. For more information on this mod please visit the 7 days to Die forum thread by clicking the "Mod Website" link in the panel above.</Server>
+	
+	<Server Name="Welcome to Canada v2.0" Logo="" >
+                         <RSS></RSS>
+                         <Banner></Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version></Version>  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-beta-2point0/archive/master.zip</Download>
+			</Downloads>
+			<Description>Welcome to Canada version 2.0. For more information on this mod please visit the 7 days to Die forum thread by clicking the "Mod Website" link in the panel above.</Description>
+	</Server>
+	
+	</ServerGroup>
+</Servers>
