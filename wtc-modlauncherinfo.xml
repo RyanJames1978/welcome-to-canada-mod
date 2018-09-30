@@ -1,7 +1,7 @@
 <?xml version='1.0'?>
 <Servers >
 	<ServerGroup Name="Welcome to Canada" Logo="https://i.imgur.com/DorAJNX.jpg">
-		<Server Name="Welcome to Canada v1.0" Logo="" >
+		<Server Name="Welcome to Canada v1.0" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
                          <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
@@ -25,7 +25,7 @@ The following download link is for mod launcher use ONLY! for a direct download 
 			</Description>
 	</Server>
 	
-	<Server Name="Welcome to Canada v2.0" Logo="" >
+	<Server Name="Welcome to Canada v2.0" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
                          <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
