@@ -1,7 +1,7 @@
 <?xml version='1.0'?>
 <Servers >
 	<ServerGroup Name="Welcome to Canada Beta Test" Logo="https://i.imgur.com/DorAJNX.jpg">
-		<Server Name="Welcome to Canada v2.0" Logo="" >
+		<Server Name="Welcome to Canada v2.1" Logo="" >
                          <RSS></RSS>
                          <Banner></Banner>
 			<Address></Address>						
