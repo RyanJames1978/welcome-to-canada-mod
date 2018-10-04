@@ -16,7 +16,27 @@
 			<Downloads>
 				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-beta-2point0/archive/master.zip</Download>
 			</Downloads>
-			<Description>Final Test build before release. If there any problems let me know as soon as you can please. Thanks!</Description>
+			<Description>Test Build</Description>
+			<Excludes>
+                     <Exclude>RJextra</Exclude>
+            </Excludes>
+		</Server>
+		<Server Name="Welcome to Canada - Romero Rules" Logo="" >
+                         <RSS></RSS>
+                         <Banner></Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version></Version>  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://www.twitch.tv/ryanjames1978</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-2point0-RomeroRules/archive/master.zip</Download>
+			</Downloads>
+			<Description>Romero Rules Welcome to Canada. Head shots only, zombies are slow and sense you from much further away.</Description>
 			<Excludes>
                      <Exclude>RJextra</Exclude>
             </Excludes>
