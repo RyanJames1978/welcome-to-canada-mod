@@ -59,5 +59,33 @@ The following download link is for mod launcher use ONLY! For a direct download 
             </Excludes>
 	</Server>
 	
+		<Server Name="Welcome to Canada v2.0 Easy Mode" Logo="https://i.imgur.com/voqx09G.png" >
+                         <RSS></RSS>
+                         <Banner>https://i.imgur.com/voqx09G.png</Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version></Version>  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-2point0-EasyMode/archive/master.zip</Download>
+			</Downloads>
+			<Description>
+Welcome to Canada version 2.0 - Easy Mode. The same mod with far less Zombies. Install this if you find the regular mod too difficult. 
+For more information on this mod please visit the 7 days to Die forum located here:
+https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
+			
+			
+The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
+			</Description>
+			<Excludes>
+                     <Exclude>RJextra</Exclude>
+            </Excludes>
+	</Server>
+	
 	</ServerGroup>
 </Servers>

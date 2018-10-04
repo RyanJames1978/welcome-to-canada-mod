@@ -36,7 +36,11 @@
 			<Downloads>
 				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-2point0-RomeroRules/archive/master.zip</Download>
 			</Downloads>
-			<Description>Romero Rules Welcome to Canada. Head shots only, zombies are slow and sense you from much further away.</Description>
+			<Description>Romero Rules Welcome to Canada. Same as regular version but with Romero movie rules.
+- Must sever brain stems to stop zombies. Destroy the heads. 
+- Zombies are slow, very few will run. 
+- Zombies sense you from much further away. Always attracted to living things including animals.
+</Description>
 			<Excludes>
                      <Exclude>RJextra</Exclude>
             </Excludes>
