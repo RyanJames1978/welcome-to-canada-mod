@@ -26,6 +26,9 @@ https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
 			
 The following download link is for mod launcher use ONLY! for a direct download link or server admin files, please visit the forum.
 			</Description>
+			<Excludes>
+                     <Exclude>RJextra</Exclude>
+            </Excludes>
 	</Server>
 	
 	<Server Name="Welcome to Canada v2.0" Logo="https://i.imgur.com/voqx09G.png" >
@@ -51,6 +54,9 @@ https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
 			
 The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
 			</Description>
+			<Excludes>
+                     <Exclude>RJextra</Exclude>
+            </Excludes>
 	</Server>
 	
 	</ServerGroup>
