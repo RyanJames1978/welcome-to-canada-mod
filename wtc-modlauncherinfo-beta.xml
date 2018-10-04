@@ -17,6 +17,9 @@
 				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-beta-2point0/archive/master.zip</Download>
 			</Downloads>
 			<Description>Final Test build before release. If there any problems let me know as soon as you can please. Thanks!</Description>
+			<Excludes>
+                     <Exclude>RJextra</Exclude>
+            </Excludes>
 		</Server>
 	</ServerGroup>
 </Servers>
