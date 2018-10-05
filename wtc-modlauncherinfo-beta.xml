@@ -21,7 +21,7 @@
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-		<Server Name="Welcome to Canada v2.0 Romero Edition" Logo="" >
+		<Server Name="Welcome to Canada v2.0 Romero Edition - Test" Logo="" >
                          <RSS></RSS>
                          <Banner></Banner>
 			<Address></Address>						
