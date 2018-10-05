@@ -21,7 +21,7 @@
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-		<Server Name="Welcome to Canada - Romero Rules" Logo="" >
+		<Server Name="Welcome to Canada v2.0 Romero Edition" Logo="" >
                          <RSS></RSS>
                          <Banner></Banner>
 			<Address></Address>						
@@ -36,10 +36,19 @@
 			<Downloads>
 				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-2point0-RomeroRules/archive/master.zip</Download>
 			</Downloads>
-			<Description>Romero Rules Welcome to Canada. Same as regular version but with Romero movie rules.
+			<Description>
+Welcome to Canada version 2.0 - Romero Edition. Same as regular version but with Romero movie rules.
 - Must sever brain stems to stop zombies. Destroy the heads. 
 - Zombies are slow, very few will run. 
 - Zombies sense you from much further away. Always attracted to living things including animals.
+- More Zombies, yes even more!
+- Better starting gear. Advanced Workbench, Hunting Rifle, Pistol, All basic tools, Smithing and workbench books.
+
+For more information on this mod please visit the 7 days to Die forum located here:
+https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
+			
+			
+The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
 </Description>
 			<Excludes>
                      <Exclude>RJextra</Exclude>
