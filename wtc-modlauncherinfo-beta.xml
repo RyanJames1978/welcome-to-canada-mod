@@ -16,6 +16,7 @@
 			<Downloads>
 				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-beta-2point0/archive/master.zip</Download>
 			</Downloads>
+			<DownloadMode>Clone</DownloadMode>
 			<Description>Test Build for play testing</Description>
 			<Excludes>
                      <Exclude>RJextra</Exclude>
@@ -24,6 +25,7 @@
                      <Exclude>gameModePVPSnowballFight</Exclude>
                      <Exclude>gameModeZombocalypse</Exclude>
                      <Exclude>gameModeSummer</Exclude>
+                     <Exclude>gameModeBanditsSurvivors</Exclude>
             </Excludes>
 		</Server>
 	</ServerGroup>
