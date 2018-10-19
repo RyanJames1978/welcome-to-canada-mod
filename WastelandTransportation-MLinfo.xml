@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<Servers >
+	<ServerGroup Name="Wastleland Vehicles" Logo="">
+		<Server Name="Wastleland Vehicles" Logo="" >
+                         <RSS></RSS>
+                         <Banner></Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version></Version>  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://github.com/RyanJames1978/Wasteland-Transportation-Mod</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Wasteland-Transportation-Mod/archive/master.zip</Download>
+			</Downloads>
+			<DownloadMode>Clone</DownloadMode>
+			<Description>
+A simple 7d2d mod to utilize MANOX's vehicles mod. 
+Focuses on lowering system load to allow for more vehicles in multiplayer.
+No Zombies in this mod. Only for multiplayer at this time.
+			</Description>
+	</Server>
+	</ServerGroup>
+</Servers>
