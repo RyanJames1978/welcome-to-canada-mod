@@ -1,7 +1,7 @@
 <?xml version='1.0'?>
 <Servers >
-	<ServerGroup Name="Wastleland Vehicles" Logo="">
-		<Server Name="Wastleland Vehicles" Logo="" >
+	<ServerGroup Name="Wastleland Transportation" Logo="">
+		<Server Name="Wastleland Transportation - v1.0" Logo="" >
                          <RSS></RSS>
                          <Banner></Banner>
 			<Address></Address>						
@@ -18,9 +18,15 @@
 			</Downloads>
 			<DownloadMode>Clone</DownloadMode>
 			<Description>
-A simple 7d2d mod to utilize MANOX's vehicles mod. 
+A simple SDX 7d2d mod mostly made to utilize MANOX's vehicles mod. 
 Focuses on lowering system load to allow for more vehicles in multiplayer.
-No Zombies in this mod. Only for multiplayer at this time.
+NO ZOMBIES in this mod.
+
+This mod includes mods by other modders:
+- dll updates by HAL9000
+- Custom Vehicles by MANUX
+- Simple UI by Stedman420
+- Bigger Back Pack, Mini Bike, Containers, and Crafting Slots by MANUX
 			</Description>
 	</Server>
 	</ServerGroup>
