@@ -18,9 +18,8 @@
 			</Downloads>
 			<DownloadMode>Clone</DownloadMode>
 			<Description>
-A simple SDX 7d2d mod mostly made to utilize MANOX's vehicles mod. 
+A simple SDX 7d2d mod mostly made to utilize MANOX's Custom Vehicles mod. 
 Focuses on lowering system load to allow for more vehicles in multiplayer.
-NO ZOMBIES in this mod. Human NPC only. 
 Traders and Crafting Removed. 
 Loot and Kill for credits and buy directly online.
 
@@ -29,10 +28,13 @@ This mod includes mods by other modders:
 - Custom Vehicles by MANUX
 - Simple UI by Stedman420
 - Bigger Back Pack, Mini Bike, Containers, and Crafting Slots by MANUX
-- Mining Robot by Manux
 - Take and Replace by Sphereii
-- Survivors and Bandits by MANUX
-- Vehicle Combine by Annabella
+- Survivors and Bandits by MANUX (inspired by Bad Company)
+- Vehicle Workbench Combine Feature by Annabella
+- Custom Categories by Sphereii
+- AnimationSDX by Sphereii
+- Entity Player by Sphereii
+- Zombie Transmogrifier by Sphereii
 			</Description>
 	</Server>
 	</ServerGroup>
