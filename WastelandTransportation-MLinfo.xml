@@ -18,12 +18,16 @@
 			</Downloads>
 			<DownloadMode>Clone</DownloadMode>
 			<Description>
-A simple SDX 7d2d mod mostly made to utilize MANOX's Custom Vehicles mod. 
-Focuses on lowering system load to allow for more vehicles in multiplayer.
-Traders and Crafting Removed. 
-Loot and Kill for credits and buy directly online.
+Wasteland Transportation is a PVP mod based on custom vehicles in 7 days to die.
+Get together with friends and drive/fly around destroying zombies, npcs, buildings, the terrain and even each other!
+Collect credits by defeating foes and looting and use them to buy all the weapons and gear of your dreams.
 
-This mod includes mods by other modders:
+Mod Features:
+- Start the game with your own chopper and 5000 credits to buy equipment.
+- RWG Optimization reduces lag when using vehicles, biomes decoration spawning decreased
+- Clearly marked game area. If you leave the game area you will be prompted to return and increasingly damaged the further you travel. 
+
+This mod includes SDX mods by other modders:
 - dll updates by HAL9000
 - Custom Vehicles by MANUX
 - Simple UI by Stedman420
