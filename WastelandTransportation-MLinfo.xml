@@ -20,7 +20,9 @@
 			<Description>
 A simple SDX 7d2d mod mostly made to utilize MANOX's vehicles mod. 
 Focuses on lowering system load to allow for more vehicles in multiplayer.
-NO ZOMBIES in this mod. 
+NO ZOMBIES in this mod. Human NPC only. 
+Traders and Crafting Removed. 
+Loot and Kill for credits and buy directly online.
 
 This mod includes mods by other modders:
 - dll updates by HAL9000
@@ -29,7 +31,8 @@ This mod includes mods by other modders:
 - Bigger Back Pack, Mini Bike, Containers, and Crafting Slots by MANUX
 - Mining Robot by Manux
 - Take and Replace by Sphereii
-- Survivors and Bandits
+- Survivors and Bandits by MANUX
+- Vehicle Combine by Annabella
 			</Description>
 	</Server>
 	</ServerGroup>
