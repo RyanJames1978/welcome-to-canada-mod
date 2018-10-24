@@ -36,5 +36,77 @@ The following download link is for mod launcher use ONLY! For a direct download 
                      <Exclude>gameModeCompoPack</Exclude>
             </Excludes>
 		</Server>
+		<Server Name="Welcome to Canada v3.0.1 with CompoPack" Logo="" >
+                         <RSS></RSS>
+                         <Banner></Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version></Version>  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://www.twitch.tv/ryanjames1978</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-3point0/archive/master.zip</Download>
+			</Downloads>
+			<DownloadMode>Clone</DownloadMode>
+			<Description>
+Welcome to Canada version 3.0 - w/ Compo pack
+For more information on this mod please visit the 7 days to Die forum located here:
+https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
+			
+			
+The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
+			</Description>
+			<Excludes>
+                     <Exclude>RJextra</Exclude>
+                     <Exclude>gameModeEasy</Exclude>
+                     <Exclude>gameModeRomero</Exclude>
+                     <Exclude>gameModePVPSnowballFight</Exclude>
+                     <Exclude>gameModeZombocalypse</Exclude>
+                     <Exclude>gameModeSummer</Exclude>
+                     <Exclude>gameModeNoNPC</Exclude>
+            </Excludes>
+		</Server>
+		<Server Name="Welcome to Canada v3.0.1 with CompoPack" Logo="" >
+                         <RSS></RSS>
+                         <Banner></Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version></Version>  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://www.twitch.tv/ryanjames1978</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-3point0/archive/master.zip</Download>
+			</Downloads>
+			<DownloadMode>Clone</DownloadMode>
+			<Description>
+Welcome to Canada version 3.0 - w/ Compo pack
+Added by popular requst ONLY. Not recommended for new players. 
+This is the same version of Welcome to Canada but it has all the custom points of interest that come with the Compo Pack.
+
+
+For more information on this mod please visit the 7 days to Die forum located here:
+https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
+			
+			
+The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
+			</Description>
+			<Excludes>
+                     <Exclude>RJextra</Exclude>
+                     <Exclude>gameModeEasy</Exclude>
+                     <Exclude>gameModeRomero</Exclude>
+                     <Exclude>gameModePVPSnowballFight</Exclude>
+                     <Exclude>gameModeZombocalypse</Exclude>
+                     <Exclude>gameModeSummer</Exclude>
+                     <Exclude>gameModeNoNPC</Exclude>
+            </Excludes>
+		</Server>
 	</ServerGroup>
 </Servers>
