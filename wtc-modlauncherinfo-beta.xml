@@ -1,13 +1,13 @@
 <?xml version='1.0'?>
 <Servers >
-	<ServerGroup Name="Welcome to Canada Beta Testers Version" Logo="https://i.imgur.com/DorAJNX.jpg">
-		<Server Name="Welcome to Canada v3" Logo="" >
+	<ServerGroup Name="Welcome to Canada - Beta Testers Version" Logo="https://i.imgur.com/DorAJNX.jpg">
+		<Server Name="Welcome to Canada v3" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
-                         <Banner></Banner>
+                         <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
 			<Port></Port>							
 			<Type></Type>									
-			<Version></Version>  		
+			<Version>3.0.1</Version>  		
 			<EAC></EAC>									
 			<Admin>RyanJames1978</Admin>					
 			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
@@ -26,6 +26,7 @@ https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
 The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
 			</Description>
 			<Excludes>
+                     <Exclude>7DaysToDieServer_Data</Exclude>
                      <Exclude>gameModeCompoPack</Exclude>
                      <Exclude>gameModeEasy</Exclude>
                      <Exclude>gameModeNoBBM</Exclude>
@@ -37,13 +38,13 @@ The following download link is for mod launcher use ONLY! For a direct download 
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-		<Server Name="Welcome to Canada v3 - CompoPack Mode" Logo="" >
+		<Server Name="Welcome to Canada v3 - CompoPack Mode" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
-                         <Banner></Banner>
+                         <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
 			<Port></Port>							
 			<Type></Type>									
-			<Version></Version>  		
+			<Version>3.0.1</Version>  	  		
 			<EAC></EAC>									
 			<Admin>RyanJames1978</Admin>					
 			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
@@ -62,6 +63,10 @@ https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
 The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
 			</Description>
 			<Excludes>
+                     <Exclude>7DaysToDieServer_Data</Exclude>
+                     <!-- Don't exclude the version we are using
+                     <Exclude>gameModeCompoPack</Exclude>
+                     -->
                      <Exclude>gameModeEasy</Exclude>
                      <Exclude>gameModeNoBBM</Exclude>
                      <Exclude>gameModeNPC</Exclude>
@@ -72,13 +77,13 @@ The following download link is for mod launcher use ONLY! For a direct download 
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-		<Server Name="Welcome to Canada v3 - Vanilla Backpack Mode" Logo="" >
+		<Server Name="Welcome to Canada v3 - Vanilla Backpack Mode" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
-                         <Banner></Banner>
+                         <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
 			<Port></Port>							
 			<Type></Type>									
-			<Version></Version>  		
+			<Version>3.0.1</Version>  		
 			<EAC></EAC>									
 			<Admin>RyanJames1978</Admin>					
 			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
@@ -89,7 +94,7 @@ The following download link is for mod launcher use ONLY! For a direct download 
 			</Downloads>
 			<DownloadMode>Clone</DownloadMode>
 			<Description>
-Welcome to Canada version 3.0 - no big backpack mod.
+Welcome to Canada version 3.0 - no big backpack mod. (Not Active DO NOT INSTALL)
 Same as normal version but with vanilla backpack and vehicle storage.
 For more information on this mod please visit the 7 days to Die forum located here:
 https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
@@ -98,8 +103,12 @@ https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
 The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
 			</Description>
 			<Excludes>
+                     <Exclude>7DaysToDieServer_Data</Exclude>
                      <Exclude>gameModeCompoPack</Exclude>
                      <Exclude>gameModeEasy</Exclude>
+                     <!-- Don't exclude the version we are using
+                     <Exclude>gameModeNoBBM</Exclude>
+                     -->
                      <Exclude>gameModeNPC</Exclude>
                      <Exclude>gameModePVPSnowballFight</Exclude>
                      <Exclude>gameModeRomero</Exclude>
@@ -108,13 +117,13 @@ The following download link is for mod launcher use ONLY! For a direct download 
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-		<Server Name="Welcome to Canada v3 - NPC mode" Logo="" >
+		<Server Name="Welcome to Canada v3 - NPC mode" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
-                         <Banner></Banner>
+                         <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
 			<Port></Port>							
 			<Type></Type>									
-			<Version></Version>  		
+			<Version>3.0.1</Version>  	 		
 			<EAC></EAC>									
 			<Admin>RyanJames1978</Admin>					
 			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
@@ -125,7 +134,7 @@ The following download link is for mod launcher use ONLY! For a direct download 
 			</Downloads>
 			<DownloadMode>Clone</DownloadMode>
 			<Description>
-Welcome to Canada version 3.0 - NPC mode
+Welcome to Canada version 3.0 - NPC mode (Not Active DO NOT INSTALL)
 same as normal mod but with NPC characters. Survivors and Bandits. Many different tiers.
 For more information on this mod please visit the 7 days to Die forum located here:
 https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
@@ -134,9 +143,13 @@ https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
 The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
 			</Description>
 			<Excludes>
+                     <Exclude>7DaysToDieServer_Data</Exclude>
                      <Exclude>gameModeCompoPack</Exclude>
                      <Exclude>gameModeEasy</Exclude>
                      <Exclude>gameModeNoBBM</Exclude>
+                     <!-- Don't exclude the version we are using
+                     <Exclude>gameModeNPC</Exclude>
+                     -->
                      <Exclude>gameModePVPSnowballFight</Exclude>
                      <Exclude>gameModeRomero</Exclude>
                      <Exclude>gameModeSummer</Exclude>
@@ -144,13 +157,13 @@ The following download link is for mod launcher use ONLY! For a direct download 
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-				<Server Name="Welcome to Canada v3 - Romero Mode" Logo="" >
+				<Server Name="Welcome to Canada v3 - Romero Mode" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
-                         <Banner></Banner>
+                         <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
 			<Port></Port>							
 			<Type></Type>									
-			<Version></Version>  		
+			<Version>3.0.1</Version>  			
 			<EAC></EAC>									
 			<Admin>RyanJames1978</Admin>					
 			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
@@ -161,7 +174,7 @@ The following download link is for mod launcher use ONLY! For a direct download 
 			</Downloads>
 			<DownloadMode>Clone</DownloadMode>
 			<Description>
-Welcome to Canada version 3.0 - Romero Mode
+Welcome to Canada version 3.0 - Romero Mode (Not Active DO NOT INSTALL)
 Same as original but with headshots only, more zeds and slower zeds
 For more information on this mod please visit the 7 days to Die forum located here:
 https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
@@ -170,11 +183,176 @@ https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
 The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
 			</Description>
 			<Excludes>
+                     <Exclude>7DaysToDieServer_Data</Exclude>
                      <Exclude>gameModeCompoPack</Exclude>
                      <Exclude>gameModeEasy</Exclude>
                      <Exclude>gameModeNoBBM</Exclude>
                      <Exclude>gameModeNPC</Exclude>
                      <Exclude>gameModePVPSnowballFight</Exclude>
+                     <!-- Don't exclude the version we are using
+                     <Exclude>gameModeRomero</Exclude>
+                     -->
+                     <Exclude>gameModeSummer</Exclude>
+                     <Exclude>gameModeZombocalypse</Exclude>
+                     <Exclude>RJextra</Exclude>
+            </Excludes>
+		</Server>
+		<Server Name="Welcome to Canada v3 - Easy Mode" Logo="https://i.imgur.com/voqx09G.png" >
+                         <RSS></RSS>
+                         <Banner>https://i.imgur.com/voqx09G.png</Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version>3.0.1</Version>  	  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://www.twitch.tv/ryanjames1978</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-3point0/archive/master.zip</Download>
+			</Downloads>
+			<DownloadMode>Clone</DownloadMode>
+			<Description>
+Welcome to Canada version 3.0 - Easy Mode (Not Active DO NOT INSTALL)
+This is the easy version of the mod, if you find the rest of the versions of the mod too challenging, try this.
+For more information on this mod please visit the 7 days to Die forum located here:
+https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
+			
+			
+The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
+			</Description>
+			<Excludes>
+                     <Exclude>7DaysToDieServer_Data</Exclude>
+                     <Exclude>gameModeCompoPack</Exclude>
+                     <!-- Don't exclude the version we are using
+                     <Exclude>gameModeEasy</Exclude>
+                     -->
+                     <Exclude>gameModeNoBBM</Exclude>
+                     <Exclude>gameModeNPC</Exclude>
+                     <Exclude>gameModePVPSnowballFight</Exclude>
+                     <Exclude>gameModeRomero</Exclude>
+                     <Exclude>gameModeSummer</Exclude>
+                     <Exclude>gameModeZombocalypse</Exclude>
+                     <Exclude>RJextra</Exclude>
+            </Excludes>
+		</Server>
+		<Server Name="Welcome to Canada v3 - Zombocalypse Mode" Logo="https://i.imgur.com/voqx09G.png" >
+                         <RSS></RSS>
+                         <Banner>https://i.imgur.com/voqx09G.png</Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version>3.0.1</Version>  	 		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://www.twitch.tv/ryanjames1978</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-3point0/archive/master.zip</Download>
+			</Downloads>
+			<DownloadMode>Clone</DownloadMode>
+			<Description>
+Welcome to Canada version 3.0 - Zombocalypse Mode (Not Active DO NOT INSTALL)
+The most challenging version of Welcome to Canada ever. Absolute Insanity. 
+Only play this if the regular mod is too easy or if you are some kind of sadist. 
+For more information on this mod please visit the 7 days to Die forum located here:
+https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
+			
+			
+The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
+			</Description>
+			<Excludes>
+                     <Exclude>7DaysToDieServer_Data</Exclude>
+                     <Exclude>gameModeCompoPack</Exclude>
+                     <Exclude>gameModeEasy</Exclude>
+                     <Exclude>gameModeNoBBM</Exclude>
+                     <Exclude>gameModeNPC</Exclude>
+                     <Exclude>gameModePVPSnowballFight</Exclude>
+                     <Exclude>gameModeRomero</Exclude>
+                     <Exclude>gameModeSummer</Exclude>
+                     <!-- Don't exclude the version we are using
+                     <Exclude>gameModeZombocalypse</Exclude>
+                     -->
+                     <Exclude>RJextra</Exclude>
+            </Excludes>
+		</Server>
+		<Server Name="Welcome to Canada v3 - Summer Mode" Logo="https://i.imgur.com/voqx09G.png" >
+                         <RSS></RSS>
+                         <Banner>https://i.imgur.com/voqx09G.png</Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version>3.0.1</Version> 		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://www.twitch.tv/ryanjames1978</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-3point0/archive/master.zip</Download>
+			</Downloads>
+			<DownloadMode>Clone</DownloadMode>
+			<Description>
+Welcome to Canada version 3.0 - Summer Mode (Not Active DO NOT INSTALL)
+It's summertime in Canada. Shed those parkas and Enjoy some sun shine. 
+For more information on this mod please visit the 7 days to Die forum located here:
+https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
+			
+			
+The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
+			</Description>
+			<Excludes>
+                     <Exclude>7DaysToDieServer_Data</Exclude>
+                     <Exclude>gameModeCompoPack</Exclude>
+                     <Exclude>gameModeEasy</Exclude>
+                     <Exclude>gameModeNoBBM</Exclude>
+                     <Exclude>gameModeNPC</Exclude>
+                     <Exclude>gameModePVPSnowballFight</Exclude>
+                     <Exclude>gameModeRomero</Exclude>
+                     <!-- Don't exclude the version we are using
+                     <Exclude>gameModeSummer</Exclude>
+                     -->
+                     <Exclude>gameModeZombocalypse</Exclude>
+                     <Exclude>RJextra</Exclude>
+            </Excludes>
+		</Server>
+		<Server Name="Welcome to Canada v3 - PVP Snowball Fight" Logo="https://i.imgur.com/voqx09G.png" >
+                         <RSS></RSS>
+                         <Banner>https://i.imgur.com/voqx09G.png</Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version>3.0.1</Version>  	  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://www.twitch.tv/ryanjames1978</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/RyanJames1978/Welcome-to-Canada-3point0/archive/master.zip</Download>
+			</Downloads>
+			<DownloadMode>Clone</DownloadMode>
+			<Description>
+Welcome to Canada version 3.0 - PVP Snowball Fight (Not Active DO NOT INSTALL)
+A fun mode for friends to get together and have a snowball fight in a wintery paintball course.
+For more information on this mod please visit the 7 days to Die forum located here:
+https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
+			
+			
+The following download link is for mod launcher use ONLY! For a direct download link or server admin files, please visit the forum.
+			</Description>
+			<Excludes>
+                     <Exclude>7DaysToDieServer_Data</Exclude>
+                     <Exclude>gameModeCompoPack</Exclude>
+                     <Exclude>gameModeEasy</Exclude>
+                     <Exclude>gameModeNoBBM</Exclude>
+                     <Exclude>gameModeNPC</Exclude>
+                     <!-- Don't exclude the version we are using
+                     <Exclude>gameModePVPSnowballFight</Exclude>
+                     -->
+                     <Exclude>gameModeRomero</Exclude>
                      <Exclude>gameModeSummer</Exclude>
                      <Exclude>gameModeZombocalypse</Exclude>
                      <Exclude>RJextra</Exclude>
