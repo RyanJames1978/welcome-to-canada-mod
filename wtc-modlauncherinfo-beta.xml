@@ -38,7 +38,7 @@ The following download link is for mod launcher use ONLY! For a direct download 
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-		<Server Name="Welcome to Canada v3 - CompoPack Mode" Logo="https://i.imgur.com/voqx09G.png" >
+		<Server Name="Welcome to Canada v3 - CompoPack" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
                          <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
@@ -56,6 +56,7 @@ The following download link is for mod launcher use ONLY! For a direct download 
 			<DownloadMode>Clone</DownloadMode>
 			<Description>
 Welcome to Canada version 3.0 - w/ Compo pack
+The same mod but with all kinds of new buildings made by various modders.
 For more information on this mod please visit the 7 days to Die forum located here:
 https://7daystodie.com/forums/showthread.php?86541-Welcome-to-Canada
 			
@@ -77,7 +78,7 @@ The following download link is for mod launcher use ONLY! For a direct download 
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-		<Server Name="Welcome to Canada v3 - Vanilla Backpack Mode" Logo="https://i.imgur.com/voqx09G.png" >
+		<Server Name="Welcome to Canada v3 - Vanilla Backpack" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
                          <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
@@ -117,7 +118,7 @@ The following download link is for mod launcher use ONLY! For a direct download 
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-		<Server Name="Welcome to Canada v3 - NPC mode" Logo="https://i.imgur.com/voqx09G.png" >
+		<Server Name="Welcome to Canada v3 - NPCs" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
                          <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
@@ -237,7 +238,7 @@ The following download link is for mod launcher use ONLY! For a direct download 
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-		<Server Name="Welcome to Canada v3 - Zombocalypse Mode" Logo="https://i.imgur.com/voqx09G.png" >
+		<Server Name="Welcome to Canada v3 - Zombocalypse" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
                          <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
@@ -278,7 +279,7 @@ The following download link is for mod launcher use ONLY! For a direct download 
                      <Exclude>RJextra</Exclude>
             </Excludes>
 		</Server>
-		<Server Name="Welcome to Canada v3 - Summer Mode" Logo="https://i.imgur.com/voqx09G.png" >
+		<Server Name="Welcome to Canada v3 - Summer" Logo="https://i.imgur.com/voqx09G.png" >
                          <RSS></RSS>
                          <Banner>https://i.imgur.com/voqx09G.png</Banner>
 			<Address></Address>						
